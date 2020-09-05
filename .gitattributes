@@ -1,0 +1,14 @@
+###############################################################################
+# Set default behavior to automatically normalize line endings.
+###############################################################################
+* text=auto
+# keep lf on unity files
+*.asset text eol=lf
+*.meta text eol=lf
+*.prefab text eol=lf
+*.unity text eol=lf
+*.controller text eol=lf
+*.anim text eol=lf
+*.mat text eol=lf
+*.preset text eol=lf
+*.XXXX text eol=lf
